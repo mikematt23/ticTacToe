@@ -1,5 +1,20 @@
 {
-  "name":"tic-tac-toe",
+  "name": "tic-tac-toe",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "description": "a computer vs human game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikematt23/ticTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikematt23/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/mikematt23/ticTacToe#readme"
 }
