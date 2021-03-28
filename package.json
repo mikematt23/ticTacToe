@@ -5,6 +5,7 @@
   "description": "a computer vs human game",
   "main": "ticTacToe.js",
   "scripts": {
+    "start": "node ticTacToe.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
